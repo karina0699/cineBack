@@ -15,6 +15,7 @@ Documentation for the framework can be found on the [Lumen website](https://lume
 
 - Crear base de datos MySql cine.
 - Ejecutar Script ubicado en sql/bd_cine.sql
-- Cobfigurar datos de MySql de maquina local. ![image](https://user-images.githubusercontent.com/60979909/142354586-3c8221e3-c527-432b-8573-8e6ea7cf6d58.png)
+- Cobfigurar datos de MySql de maquina local. 
+![image](https://user-images.githubusercontent.com/60979909/142354586-3c8221e3-c527-432b-8573-8e6ea7cf6d58.png)
 
 
